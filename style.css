@@ -1,0 +1,17 @@
+/* .nav-estilo {
+    background-color: blue;
+} */
+
+.opc-estilo {
+    color: white;
+}
+
+nav li{
+    float:left;
+    width:15%;
+    padding:5px 10px;
+    background-color:blue;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    }
